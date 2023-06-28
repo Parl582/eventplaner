@@ -68,7 +68,7 @@ const Pricing = (location) => {
 
     const ReadMore = ({ children }) => {
         const text = children;
-        const [isReadMore, setIsReadMore] = useState(true);
+        const [isReadMore, setIsReadMore] = React.useState(true);
         const toggleReadMore = () => {
           setIsReadMore(!isReadMore);
         };

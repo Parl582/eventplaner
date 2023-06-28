@@ -1,7 +1,6 @@
 {
   "name": "mehendi",
   "version": "0.1.0",
-  "homepage": "https://demoflyweis.in/eventplanner",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
